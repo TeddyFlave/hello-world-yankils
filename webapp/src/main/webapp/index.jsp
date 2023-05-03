@@ -120,7 +120,7 @@
       margin: 10px auto;
       border-radius: 5px; 
       border: none;
-      background: #1c87c9; 
+      background: #c91cbb; 
       font-size: 14px;
       font-weight: 600;
       color: #fff;
