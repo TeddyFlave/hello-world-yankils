@@ -16,7 +16,7 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 16px;
-      color: #666;
+      color: #4aa765;
       }
       h1 {
       padding: 10px 0;
