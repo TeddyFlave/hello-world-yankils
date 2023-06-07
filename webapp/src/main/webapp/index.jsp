@@ -132,7 +132,7 @@
   </head>
   <body>
     <div class="main-block">
-      <h1>User Registration Form</h1>
+      <h1>The User Registration</h1>
       <form action="/">
         <hr>
         <div class="account-type">
